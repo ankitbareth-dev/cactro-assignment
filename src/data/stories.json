@@ -1,0 +1,60 @@
+[
+  {
+    "id": 0,
+    "username": "alice_w",
+    "avatar": "https://picsum.photos/seed/alice_w_avatar/100/100.jpg",
+    "stories": [
+      {
+        "id": "0-0",
+        "url": "https://picsum.photos/seed/alice_w0/600/1000.jpg",
+        "timestamp": "2h"
+      },
+      {
+        "id": "0-1",
+        "url": "https://picsum.photos/seed/alice_w1/600/1000.jpg",
+        "timestamp": "4h"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "username": "bob_design",
+    "avatar": "https://picsum.photos/seed/bob_design_avatar/100/100.jpg",
+    "stories": [
+      {
+        "id": "1-0",
+        "url": "https://picsum.photos/seed/bob_design0/600/1000.jpg",
+        "timestamp": "3h"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "charlie_photo",
+    "avatar": "https://picsum.photos/seed/charlie_photo_avatar/100/100.jpg",
+    "stories": [
+      {
+        "id": "2-0",
+        "url": "https://picsum.photos/seed/charlie_photo0/600/1000.jpg",
+        "timestamp": "5h"
+      },
+      {
+        "id": "2-1",
+        "url": "https://picsum.photos/seed/charlie_photo1/600/1000.jpg",
+        "timestamp": "6h"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "username": "diana_travel",
+    "avatar": "https://picsum.photos/seed/diana_travel_avatar/100/100.jpg",
+    "stories": [
+      {
+        "id": "3-0",
+        "url": "https://picsum.photos/seed/diana_travel0/600/1000.jpg",
+        "timestamp": "1h"
+      }
+    ]
+  }
+]
